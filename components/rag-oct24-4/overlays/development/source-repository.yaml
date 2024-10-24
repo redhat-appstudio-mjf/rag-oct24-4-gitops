@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rag-oct24-4-repository
+spec:
+  url: https://github.com/redhat-appstudio-mjf/rag-oct24-4
